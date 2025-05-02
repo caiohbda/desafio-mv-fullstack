@@ -29,6 +29,12 @@ docker compose build
 docker compose up
 ```
 
+## Acesse o site
+http://localhost:4200/
+
+## Api local para fazer chamadas
+http://localhost:8080
+
 ## Acesse a documentação
 
 https://desafio-production.up.railway.app/swagger-ui/index.html
